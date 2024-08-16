@@ -13,8 +13,7 @@ O plugin está disponível no layout ABNT2, e é ideal para o uso em Smart TV's 
 Você pode instalar o jKeyboard de duas maneiras:
 
 ### Via CDN
-Adicione o CSS no <head>,  
-Adicione o JS antes do fechamento do <body>:
+Adicione os arquivos via jsDelivr em seu projeto:
 ```html
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jeankassio/jKeyboard@main/jkeyboard.min.css">
   <script src="https://cdn.jsdelivr.net/gh/jeankassio/jKeyboard@main/jkeyboard.min.js"></script>
